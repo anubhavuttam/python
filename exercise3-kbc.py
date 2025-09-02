@@ -1,3 +1,6 @@
+# Create a program capable of displaying questions to the user like KBC. Use List data type to store the questions and their correct answers. Display the final amount the person is taking home after playing the game.
+
+
 questions =[ "Which of the following countries is the world's largest producer of saffron?", "Spain", "Iran", "India", "Greece",
 
  "Which god is also known as ‘Gauri Nandan’?", "Agni", "Indra", "Hanuman", "Ganesha" ,
