@@ -1,6 +1,7 @@
 # Use the NewsAPI and the requests module to fetch the daily news related to different topics. Go to: https://newsapi.org/ and explore the various options to build you application
 
 import requests
+import os
 
 API_KEY = os.getenv("NEWS_API_KEY")
 if not API_KEY:
